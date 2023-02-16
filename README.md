@@ -24,5 +24,5 @@ In this project I focus on building the cloning of the google interface, which i
 Learn to use the standard HTML5 tags and CSS3 styles.
 
 ## 4.Link to Demo
-Here you can view the finished project! [Google Clone](https://googlecloneve.netlify.app)
+Here you can view the finished project💚! [Google Clone](https://googlecloneve.netlify.app)
 
